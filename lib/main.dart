@@ -27,6 +27,7 @@ class MyApp extends StatelessWidget {
       title: 'Material App',
       theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: Colors.black),
       home: const CalculatorScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

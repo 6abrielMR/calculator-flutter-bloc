@@ -17,9 +17,6 @@ class CalculatorScreen extends StatelessWidget {
         margin: const EdgeInsets.symmetric(horizontal: 10),
         child: Column(
           children: [
-            Expanded(
-              child: Container(),
-            ),
             const ResultsLabels(),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
