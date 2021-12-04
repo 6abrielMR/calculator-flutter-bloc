@@ -1,6 +1,6 @@
-# calculator_bloc
+# Calculator | BloC
 
-A new Flutter project.
+Calculator coded in Flutter with Dart using BloC, the flutter_bloc plugin was added to improve the BloC creation and improve the project structure. There are basic functions to perform in the application.
 
 ## Getting Started
 
